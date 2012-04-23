@@ -2,7 +2,7 @@
 
 Todos is a simple example of an application built upon the following technologies:
 
-* Ruby On Rails: http://rubyonrails.org
+* Ruby On Rails: http://rubyonrails.org/
 * Backbone.js: http://documentcloud.github.com/backbone/
 
 == JavaScript templates
